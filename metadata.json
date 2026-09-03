@@ -1,0 +1,7 @@
+{
+  "name": "Telecom Bill Parser & Line Register Audit",
+  "description": "Enterprise telecom billing analyzer and line register reconciliation tool with automated ghost-line detection, budget tracking, and invoice audit analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
